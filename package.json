@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-site-vue-server",
+  "version": "1.0.0",
+  "description": "Portfolio Site Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulhighum/portfolio-site-vue-server.git"
+  },
+  "author": "Paul Highum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulhighum/portfolio-site-vue-server/issues"
+  },
+  "homepage": "https://github.com/paulhighum/portfolio-site-vue-server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
